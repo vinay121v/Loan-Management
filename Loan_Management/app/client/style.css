@@ -1,0 +1,190 @@
+.center-text {
+  text-align: center;
+}
+
+#margin-bottom-navbar {
+  margin-bottom: 15px;
+}
+
+.ui.borderless.top.Menu {
+  align-content: center;
+  border: none;
+  box-shadow: none;
+  background-color: #395878 !important;
+  padding-bottom: 30px;
+  padding-top: 50px;
+}
+
+.gemsLogo {
+  padding-right: 100px;
+  border: none;
+  box-shadow: none;
+  padding-top: 100px;
+}
+
+#footer {
+  padding-top: 100px;
+}
+
+/* 1st Form Section */
+
+.ui.divider.divider-props {
+  margin-top: 40px;
+  margin-bottom: 20px;
+}
+
+.ui.form input[type=checkbox] {
+  cursor: pointer;
+  position: relative;
+  top: 0;
+  left: 0;
+  opacity: 100%!important;
+  outline: 0;
+  z-index: 3;
+  width: 30px;
+  height: 17px;
+  background: white;
+}
+
+.bool-field-style {
+  padding-bottom: 5px;
+}
+
+/* END: 1st Form Section */
+
+/* START: 7th to 9th Form Section */
+
+.add-margin-top-10px {
+  margin-top: 10px !important;
+}
+
+.add-margin-top-20px {
+  margin-top: 20px !important;
+}
+
+.add-margin-top-30px {
+  margin-top: 30px !important;
+}
+
+.add-margin-top-40px {
+  margin-top: 40px !important;
+}
+
+.add-margin-top-50px {
+  margin-top: 50px !important;
+}
+
+.add-margin-top-30vh {
+  margin-top: 30vh;
+}
+
+.float-right {
+  float: right;
+}
+
+.align-right {
+  text-align: right;
+}
+
+#sig-canvas {
+  border: 1px solid rgba(34, 36, 38, .15);
+  border-radius: 6px;
+  cursor: crosshair;
+}
+
+.red {
+  background: red;
+}
+
+.require-margin {
+  margin-left: .5rem !important;
+  margin-right: .5rem !important;
+}
+
+/* END: 7th to 9th Form Section */
+
+.legalDiscretion {
+  max-height: 250px;
+  overflow-y: scroll;
+  border: black;
+}
+
+.termsAndConditions {
+  padding-top: 25px;
+  padding-bottom: 50px;
+}
+
+.title {
+  text-align: center;
+}
+
+.ui.checkbox.new-line {
+  display: block !important;
+  margin-top: 0.85rem !important;
+}
+
+#LogoHome {
+  border: none;
+  box-shadow: none;
+  padding-top: 20px;
+  padding-bottom: 40px;
+}
+
+.LogoTitle {
+  font-size: 30px;
+  align-content: center;
+  color: Black;
+}
+
+.footer {
+  padding-left: 30px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.hawaii-background {
+  background: url("https://images.unsplash.com/photo-1460355591219-452ee2548432?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80") no-repeat bottom fixed;
+  background-size: auto;
+  height: 500px;
+  background-position: center top;
+}
+
+.color-white {
+  color: rgba(255, 255, 255, .9);
+}
+
+.darkOutline {
+  border: 1px dashed #021a40;
+}
+
+.headers {
+  font-size: 20px;
+}
+
+.processImage {
+    padding-left: 5%;
+    alignment: center;
+    text-align: center;
+    padding-bottom: 100px;
+    padding-top: 50px;
+  }
+
+.feeImage {
+  padding-left: 5%;
+  alignment: center;
+  text-align: center;
+  padding-bottom: 100px;
+}
+
+.topmen {
+  padding-top: 50px;
+}
+
+
+/* START: Home page edits */
+
+a#LogoHome.ui.image {
+  padding: 0px;
+}
+
+
